@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="leasedaogenerator.leasedaogenerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/leasedaogenerator/build/libs/leasedaogenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
